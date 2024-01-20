@@ -8,9 +8,9 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "Magic Chess Best Synergy 2024 for ONE HIT DELETE ‼️",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "cWoVLEw7VolX-gzg",
   year: "2024"
     }, {
   character: "Vito Corleone",
