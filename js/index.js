@@ -15,9 +15,9 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "How Far I'll Go ( from Moana) | Shania Yan Cover",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "b2AYQ1R790s",
   year: "2024"
     }, {
   character: "Vito Corleone",
