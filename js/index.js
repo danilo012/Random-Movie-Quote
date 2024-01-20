@@ -36,9 +36,9 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "PINAKA Nakakatawang Pangyayari sa LIVE TV",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "vCJJra83uRfJktI_",
   year: "2024"
   }, {
   character: "Vito Corleone",
