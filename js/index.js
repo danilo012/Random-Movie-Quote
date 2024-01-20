@@ -5,6 +5,48 @@ var quotes = [{
   quote: "Frankly, my dear, I don't give a damn.",
   scene: "GQ5ICXMC4xY",
   year: "1939"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+  }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
   }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
