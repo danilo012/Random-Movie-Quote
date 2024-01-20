@@ -43,9 +43,9 @@ var quotes = [{
   }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "Huling Tagay Ng Taon (OfficialMusicVideo) - Smugglaz",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "3aGEjTX21v4",
   year: "2024"
     }, {
   character: "Vito Corleone",
