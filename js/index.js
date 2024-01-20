@@ -8,6 +8,76 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
   movie: "JMara - Mahal Kong Pilipinas",
   quote: "I'm gonna make him an offer he can't refuse.",
   scene: "j_kPvYsC1pw",
