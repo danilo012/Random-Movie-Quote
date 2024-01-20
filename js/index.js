@@ -29,9 +29,9 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "KEAN DYSSO - Give it to Me (TikTok Remix)",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "jmUDKfvKq1s",
   year: "2024"
     }, {
   character: "Vito Corleone",
