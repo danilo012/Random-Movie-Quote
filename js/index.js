@@ -5,6 +5,13 @@ var quotes = [{
   quote: "Frankly, my dear, I don't give a damn.",
   scene: "GQ5ICXMC4xY",
   year: "1939"
+  }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "You have to Try This Secret Buff on YuZhong | Yu Zhong Gameplay | MLBB",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "Vw4eFeZJrD9IRWks",
+  year: "1972"
 }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
