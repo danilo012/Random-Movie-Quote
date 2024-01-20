@@ -8,37 +8,44 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "Escape the Inip with Nissin Butter Coconut",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "w78HrrmSje4",
   year: "2024"
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "Chicken McDo? NICE! 🍗",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "IKV__HuBc0I",
   year: "2024"
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "Fita Sports Car: Balikan Ang Sarap!",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "-GWV-hsNXQs",
   year: "2024"
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "Downy Sunrise Fresh TVC 2022 30s (Philippines)",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "Y0aKc-N8rNY",
   year: "2024"
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "#RCLitro Balot",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "KQlA9YJUro0",
+  year: "2024"
+    }, {
+  character: "Vito Corleone",
+  actor: "Marlon Brando",
+  movie: "Babangon Tayo with NESCAFÉ | NESCAFÉ Philippines",
+  quote: "I'm gonna make him an offer he can't refuse.",
+  scene: "WEOyI6QtjkE",
   year: "2024"
     }, {
   character: "Vito Corleone",
