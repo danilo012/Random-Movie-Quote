@@ -36,9 +36,9 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "Di Na Muli (Live at The Cozy Cove) - Janine Teñoso",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "Z7iBaXE1qKY",
   year: "2024"
   }, {
   character: "Vito Corleone",
