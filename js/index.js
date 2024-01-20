@@ -26,28 +26,28 @@ var quotes = [{
   quote: "I'm gonna make him an offer he can't refuse.",
   scene: "",
   year: "2024"
-    }, {
+}, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
   movie: "Closeup presents: Closer You & I performed by Adie featuring DonBelle #DareToGetCloser",
   quote: "I'm gonna make him an offer he can't refuse.",
   scene: "9OHpxgrYF3x3wauM",
   year: "2024"
-    }, {
+}, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
   movie: "PINAKA Nakakatawang Pangyayari sa LIVE TV",
   quote: "I'm gonna make him an offer he can't refuse.",
   scene: "vCJJra83uRfJktI_",
   year: "2024"
-  }, {
+}, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
   movie: "ARTISTAHING LOLA HINDI MO IISIPING DITO NAKATIRA SA BAHAY RIN NG COBRA",
   quote: "I'm gonna make him an offer he can't refuse.",
   scene: "8x6LYb8HI3XQLce6",
   year: "2024"
-  }, {
+}, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
   movie: "You have to Try This Secret Buff on YuZhong | Yu Zhong Gameplay | MLBB",
