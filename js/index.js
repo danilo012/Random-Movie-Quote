@@ -43,9 +43,9 @@ var quotes = [{
   }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "ARTISTAHING LOLA HINDI MO IISIPING DITO NAKATIRA SA BAHAY RIN NG COBRA",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "8x6LYb8HI3XQLce6",
   year: "2024"
   }, {
   character: "Vito Corleone",
