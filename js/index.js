@@ -29,9 +29,9 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "Closeup presents: Closer You & I performed by Adie featuring DonBelle #DareToGetCloser",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "9OHpxgrYF3x3wauM",
   year: "2024"
     }, {
   character: "Vito Corleone",
