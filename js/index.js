@@ -52,7 +52,7 @@ var quotes = [{
   actor: "Harrison Ford",
   movie: "Star Wars",
   quote: "May the Force be with you.",
-  scene: "ySMzK4xzWhU",
+  scene: "M66U_DuMCS8",
   year: "1977"
 }, {
   character: "Margo Channing",
