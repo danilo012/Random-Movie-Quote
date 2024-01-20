@@ -8,9 +8,9 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "Magic Chess Best Synergy 2024 for ONE HIT DELETE ‼️",
+  movie: "Bakit Ako - K-Ram feat. Honcho (Official Music Video)",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "cWoVLEw7VolX-gzg",
+  scene: "AAoSSRFvj10",
   year: "2024"
     }, {
   character: "Vito Corleone",
