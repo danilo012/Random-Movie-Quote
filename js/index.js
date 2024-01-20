@@ -8,9 +8,9 @@ var quotes = [{
     }, {
   character: "Vito Corleone",
   actor: "Marlon Brando",
-  movie: "",
+  movie: "JMara - Mahal Kong Pilipinas",
   quote: "I'm gonna make him an offer he can't refuse.",
-  scene: "",
+  scene: "j_kPvYsC1pw",
   year: "2024"
     }, {
   character: "Vito Corleone",
