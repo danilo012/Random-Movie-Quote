@@ -159,7 +159,7 @@ function updateQuote() {
   $(".movie-year").html("(" + quotes[quoteId].year + ")");
   $(".movie-title").html(quotes[quoteId].movie);
   var youTubeUrl = "https://www.youtube.com/embed/" + quotes[quoteId].scene;
-  $(".youtube-iframe").html("<iframe width=100% height='175px' src='" + youTubeUrl + "?showinfo=0' frameborder='0' allowfullscreen>");
+  $(".youtube-iframe").html("<iframe width=100% height='175px' src='" + youTubeUrl + "?showinfo=0' frameborder='0' allow="autoplay; allowfullscreen>");
   var colorId = Math.floor(Math.random() * palette.length);
   $(".dark-primary").css("background-color", palette[colorId].darkPrimary);
   $(".title-bar").css("background-color", palette[colorId].primary);
