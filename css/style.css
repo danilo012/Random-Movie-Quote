@@ -38,6 +38,7 @@ body {
 .card-style blockquote {
   margin-left: 1em;
   margin-right: 1em;
+  font-size: 46px;
 }
 
 .youtube-iframe iframe {
