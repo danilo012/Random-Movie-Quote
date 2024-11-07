@@ -132,13 +132,21 @@ var quotes = [{
   scene: "AAoSSRFvj10",
   year: "2024"
 }, {
+  character: "hidden",
+  actor: "hidden",
+  movie: "Mobile Legends The Movie: Dawn of Heroes | Teaser Trailer (AIC)",
+  quote: "hidden.",
+  scene: "xQRb4O8phtBkSjsh",
+  year: "2024"
+},  {
   character: "Vito Corleone",
   actor: "Marlon Brando",
   movie: "You have to Try This Secret Buff on YuZhong | Yu Zhong Gameplay | MLBB",
   quote: "I'm gonna make him an offer he can't refuse.",
   scene: "Vw4eFeZJrD9IRWks",
   year: "1972"
-}, {
+}, 
+              {
   character: "Vito Corleone",
   actor: "Marlon Brando",
   movie: "The Godfather",
